@@ -1,4 +1,5 @@
 ## Folder Structure
+```
 ├─ src
 │  ├─ configs                
 │  │  └─ db.js  
@@ -28,7 +29,8 @@
 ├─ package-lock.json                                           
 ├─ package.json              
 └─ readme.md   
-       
+```
+
 ## Run through of how the users and fitness challenge system works (Section A)
 Users can complete challenges to earn skillpoints. The amount of skillpoints they earn vary
 between the different challenges and whether they pass the challenge or not. Users can update 
